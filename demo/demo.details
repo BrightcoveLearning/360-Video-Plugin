@@ -1,0 +1,8 @@
+---
+ name: 360 Video Plugin
+ description: Demo for for 360 Video Plugin document
+ authors:
+   - Matthew Boles
+   - Brightcove Learning Services
+ normalize_css: no
+ ...
